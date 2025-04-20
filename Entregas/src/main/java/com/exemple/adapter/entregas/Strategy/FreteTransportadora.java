@@ -1,5 +1,7 @@
 package com.exemple.adapter.entregas.Strategy;
 
+import com.exemple.adapter.entregas.Adapter.TransportadoraAdapter;
+
 public class FreteTransportadora implements FreteStrategy {
     private TransportadoraAdapter adapter;
 

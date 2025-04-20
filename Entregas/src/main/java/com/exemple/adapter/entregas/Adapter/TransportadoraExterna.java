@@ -1,4 +1,4 @@
-package com.exemple.adapter.entregas.Strategy;
+package com.exemple.adapter.entregas.Adapter;
 
 public class TransportadoraExterna {
 
